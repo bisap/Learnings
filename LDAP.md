@@ -42,4 +42,5 @@ Users are represented by their security certificates and their access control pr
 <b>Directory services do this in two ways: <b>
 
 By centralizing the administration of distributed information in a single place
+<br>
 By letting information stored in the directory be easily shared across users and applications within a corporate intranet and across extranets
