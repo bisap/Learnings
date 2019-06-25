@@ -3,7 +3,7 @@ LDAP (Lightweight Directory Access Protocol) is an open and cross platform proto
 
 LDAP provides the communication language that applications use to communicate with other directory services servers. Directory services store the users, passwords, and computer accounts, and share that information with other entities on the network.
 
-What is Active Directory?
+<b>What is Active Directory?</b>
 Active Directory is a directory services implementation that provides all sorts of functionality like authentication, group and user management, policy administration and more.
 
 LDAP vs. Active Directory
