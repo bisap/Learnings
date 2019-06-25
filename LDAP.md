@@ -28,3 +28,18 @@ You might ask why Database can't be used. It highly depends on the use case. If 
 LDAP is predominantly used application protocol for authentication purposes.
 
 Therefore, use LDAP if there are frequent reads and choose database if there are frequent updates and inserts happening in the application.
+
+<b>Directory Services - An Introduction</b>
+
+A directory service is a centralized, network-based repository that stores and provides access to information that must either be shared between applications or is highly distributed. Directory services play a vital role in developing intranet and Internet applications by helping you share information about users, systems, networks, services, and applications throughout the network
+
+For instance, e-mail systems include directories to store user information and to route messages between senders and receivers. Large corporations also use directories of various forms as repositories of employee information: centrally storing names, departments, managers, social security numbers, and other organizational information.
+
+All Internet applications have a common problem: how to centralize information in a single repository from which it can be efficiently accessed and shared by users or applications. The solution is Directory Services. You can use directory services to store and share a variety of different kinds of information.
+
+Users are represented by their security certificates and their access control privileges, which can be stored centrally in a directory. An administrator then changes the user's information and privileges in a single location rather than making such changes in each of the applications and databases that the user accesses. Additionally, the directory service serves as a central repository to manage distributed network resources
+
+<b>Directory services do this in two ways: <b>
+
+By centralizing the administration of distributed information in a single place
+By letting information stored in the directory be easily shared across users and applications within a corporate intranet and across extranets
