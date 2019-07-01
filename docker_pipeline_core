@@ -1,0 +1,2 @@
+container is a highly isolated process
+Build --> test --> Pakage --> registry--> integration testing -->Deploy--> onDemand testing --> prod
