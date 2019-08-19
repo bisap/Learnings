@@ -26,3 +26,6 @@ first image: ~6MB
 second image: ~2MB
 Just by merging together some lines in the contrived example, we got the same resulting content in our image, and shrunk our image from 5MB to just the 1MB file that you see in the final image.
 </p>
+
+
+
